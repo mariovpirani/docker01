@@ -1,0 +1,3 @@
+FROM mysql
+# env
+ENV MYSQL_ROOT_PASSWORD impacta
