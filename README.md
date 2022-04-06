@@ -20,7 +20,7 @@ mysql -uroot -pimpacta
 
 
 ### MYSQL
-show databases;
-use IMPACTA_DATABASE;
-show tables;
+show databases;<br/>
+use IMPACTA_DATABASE;<br/>
+show tables;<br/>
 SELECT * FROM CLIENTE;
